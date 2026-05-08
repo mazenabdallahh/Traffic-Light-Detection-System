@@ -33,5 +33,4 @@ Dataset Link: [MS COCO on Kaggle](https://www.kaggle.com/datasets/awsaf49/coco-2
 ## Performance Comparison
 While Faster R-CNN provides superior localization accuracy for smaller objects, the YOLO implementation offers significantly faster inference times, making it suitable for deployment in hardware-constrained or real-time environments.
 
----
-*Developed by [Your Name]*
+
